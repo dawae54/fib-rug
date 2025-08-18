@@ -1,0 +1,8 @@
+[package]
+edition = "2024"
+license = "GPL-3.0-only"
+name = "fib-rug"
+version = "0.1.0"
+
+[dependencies]
+rug = "1.27.0"
