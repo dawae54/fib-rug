@@ -2,6 +2,8 @@
 edition = "2024"
 license = "GPL-3.0-only"
 name = "fib-rug"
+readme = "README.md"
+repository = "https://github.com/dawae54/fib-rug"
 version = "0.1.0"
 
 [dependencies]
