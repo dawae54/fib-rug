@@ -1,6 +1,0 @@
-$ mkdir -p "/home/alvaro/fib-rug/target/debug/build/az-481d6b38aeb5efaf/out/try_track_caller"
-$ cd "/home/alvaro/fib-rug/target/debug/build/az-481d6b38aeb5efaf/out/try_track_caller"
-$ printf '%s' "// try_tra"... > "/home/alvaro/fib-rug/target/debug/build/az-481d6b38aeb5efaf/out/try_track_caller/try_track_caller.rs"
-$ cd "/home/alvaro/fib-rug/target/debug/build/az-481d6b38aeb5efaf/out/try_track_caller" && "rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
-cargo:rustc-cfg=track_caller
-$ rm -r "/home/alvaro/fib-rug/target/debug/build/az-481d6b38aeb5efaf/out/try_track_caller"

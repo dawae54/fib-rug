@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["BorrowRational","MiniRational","ParseRationalError","SmallRational","TryFromFloatError"]};
