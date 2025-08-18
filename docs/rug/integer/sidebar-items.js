@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["IsPrime","Order"],"struct":["BorrowInteger","MiniInteger","ParseIntegerError","SmallInteger","TryFromIntegerError"],"trait":["IntegerExt64","ToMini","ToSmall","UnsignedPrimitive"]};
