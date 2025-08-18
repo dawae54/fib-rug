@@ -9,3 +9,7 @@ version = "0.1.0"
 
 [dependencies]
 rug = "1.27.0"
+
+[[bin]]
+name = "fib"
+path = "src/main.rs"
