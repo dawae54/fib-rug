@@ -1,11 +1,12 @@
 [package]
 description = "Basic fibonacci numbers calculator using the rug crate."
+documentation = "https://docs.rs/crate/fib-rug"
 edition = "2024"
 license = "GPL-3.0-only"
 name = "fib-rug"
 readme = "README.md"
 repository = "https://github.com/dawae54/fib-rug"
-version = "0.1.1"
+version = "1.0.0"
 
 [dependencies]
 rug = "1.27.0"
