@@ -1,7 +1,7 @@
 # fib-rug
 Basic fibonacci numbers calculator using the rug crate.
 # Installation
-Make sure that `clang` is installed:
+1. Make sure that `clang` is installed:
 ### Debian/Ubuntu
 ```sh
 sudo apt install clang
@@ -15,11 +15,11 @@ sudo dnf install clang
 sudo pacman -S clang
 ```
 
-Export `clang` as c compiler:
+2. Export `clang` as c compiler:
 ```sh
 export CC=clang
 ```
-After exporting `clang` , install the package using cargo:
+3. After exporting `clang` , install the package using cargo:
 ```sh
 cargo install fig-rug
 ```
