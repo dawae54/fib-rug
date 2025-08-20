@@ -16,7 +16,7 @@ sudo pacman -S clang
 ```
 
 Export `clang` as c compiler:
-```bash
+```sh
 export CC=clang
 ```
 After exporting `clang` , install the package using cargo:
