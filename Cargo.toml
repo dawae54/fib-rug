@@ -6,7 +6,7 @@ license = "GPL-3.0-or-later"
 name = "fib-rug"
 readme = "README.md"
 repository = "https://github.com/dawae54/fib-rug"
-version = "1.2.0"
+version = "1.2.1"
 
 [dependencies]
 rug = "1.28.0"
