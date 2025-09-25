@@ -27,3 +27,5 @@ cargo install fig-rug
 ```
 fib <number>
 ```
+
+![Usage](fib.gif)
