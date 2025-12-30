@@ -28,4 +28,4 @@ cargo install fig-rug
 fib <number>
 ```
 
-![gif](fib.gif)
+![gif](fib-dark.gif)
