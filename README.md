@@ -28,4 +28,4 @@ cargo install fig-rug
 fib <number>
 ```
 
-[![asciicast](https://asciinema.org/a/ZDGraqrG0XBjab1k9ekgW9zY8.svg)](https://asciinema.org/a/ZDGraqrG0XBjab1k9ekgW9zY8)
+![gif](fib.gif)
